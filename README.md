@@ -1,2 +1,2 @@
 # Cybersecurity-Portfolio
-Cybersecurity portfolio showcasing hands-on security projects, SOC analysis, network security, and defensive security skills.
+I am an aspiring cybersecurity professional passionate about protecting systems, networks, and data from security threats. I enjoy learning about cybersecurity, analyzing problems, and developing technical skills. I am currently building my knowledge through hands-on labs, security projects, and continuous learning. My goal is to develop strong skills in threat detection, incident response, and security analysis while contributing to a safer digital environment.
